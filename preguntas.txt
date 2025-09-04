@@ -1,0 +1,13 @@
+Punto más debil de PGP:
+El factor humano, sobre todo en el intercambio de claves como la gestión.
+
+Cúando es más conveniente utilizar solamente cifrado simétrico:
+Para tareas que requieran velocidad y eficiencia en el manejo de datos de gran tamaño.
+
+En que consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa):
+Planificación y analisis de recursos:  Identificar los requisitos del software.
+Diseño seguro: Idea de un plan robusto para la implementación.
+Implementación segura: Métodos seguros al añadir los datos.
+Pruebas de seguridad: Encontrar vulnerabilidades y factores de riesgo.
+Despliegue y mantenimiento: Ponerlo en práctica y revisarlo constantemente.
+
